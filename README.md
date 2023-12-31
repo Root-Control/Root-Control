@@ -12,8 +12,8 @@ Continued technical education has allowed me to stay ahead of the curve and deli
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="55" height="55" />
+      <br>Nestjs
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
